@@ -1,4 +1,4 @@
-# 🤖 Automata Demo Project
+# 🤖 Automata Concepts Project
 
 Welcome to the **Automata Demo Repository** — a visual and interactive collection of classic **automata theory** and **algorithmic concepts**, implemented in Java with educational clarity!
 
