@@ -1,3 +1,3 @@
 # joohhhnnnny.github.io
 
-CST4 Activity
+CST4 Final Projects
